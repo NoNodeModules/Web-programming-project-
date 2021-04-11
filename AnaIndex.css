@@ -217,6 +217,32 @@ button {
     margin: 20px;
 }
 
+.centered-pagination {
+    text-align: center;
+}
+
+.t-pagination {
+    display: inline-block;
+}
+
+.t-pagination a  {
+    float: left;
+    padding: 15px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.t-pagination a.active {
+    background-color: #AB9353;
+    color: #fdfbf3;
+    border-color: #AB9353;
+}
+
+.t-pagination a:hover:not(.active) {
+    background-color: #AB9353;
+    color: #fdfbf3;
+}
+
 .reviews {
     border: 1px solid #ccc;
     width: 90%;
