@@ -164,6 +164,8 @@ button {
 
 /* Member page*/
 
+  /*Profile info*/
+
 .t-profile-information {
     display: flex;
     justify-content: space-evenly;
@@ -205,6 +207,8 @@ button {
     padding: 25px;
 }
 
+  /*Book listing*/
+
 .t-book-listing {
     display: flex;
     flex-direction: row;
@@ -243,6 +247,8 @@ button {
     color: #fdfbf3;
 }
 
+  /*Review*/
+  
 .reviews {
     border: 1px solid #ccc;
     width: 90%;
