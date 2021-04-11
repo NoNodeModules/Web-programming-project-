@@ -216,3 +216,23 @@ button {
     height: 200px;
     margin: 20px;
 }
+
+.reviews {
+    border: 1px solid #ccc;
+    width: 90%;
+    height: 200px;
+    margin: 10px;
+    padding: 25px;
+}
+
+.exchange-history {
+    text-align: center;
+    height: 40px;
+    width: 200px;
+    color: #fdfbf3;
+    background-color: #AB9353;
+    border-color:#AB9353;
+    border-radius: 4px;
+    border: 1px solid;
+    margin-left: 10px;
+}
